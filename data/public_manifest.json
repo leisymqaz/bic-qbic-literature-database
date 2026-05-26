@@ -1,0 +1,16 @@
+{
+  "source_database": "bic_literature_verified.sqlite",
+  "tables": {
+    "audit_log": 3,
+    "candidate_classifications": 137,
+    "devices": 0,
+    "evidence": 1137,
+    "external_verified_papers": 12,
+    "papers": 50,
+    "physical_observations": 939,
+    "resonances": 0,
+    "source_files": 50,
+    "web_sources": 4
+  },
+  "policy": "quotes, full text, source paths, and local absolute paths removed"
+}

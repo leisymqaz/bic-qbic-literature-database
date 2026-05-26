@@ -1,0 +1,4 @@
+audit_id,event_time,level,message,details
+4,2026-05-16T10:44:23+00:00,INFO,Built verified-only seed database,"{""source_dir"": ""[local-pdf-source-redacted]"", ""pdf_count"": 50, ""crossref"": true}"
+5,2026-05-16 10:44:24,INFO,Applied core PDF verification to 13 papers,"[('Nature Photon2017-Anisotropy-induced photonic bound states in the continum.pdf', 'quote_ok=False, doi_ok=True, arxiv_ok=True'), ('Advanced Photonics2021-单胞高Q.pdf', 'quote_ok=False, doi_ok=True, arxiv_ok=True')]"
+6,2026-05-16 10:44:27,INFO,Extracted local physical observation candidates,"inserted=925, max_pages=8"
